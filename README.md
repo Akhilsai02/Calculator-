@@ -11,24 +11,18 @@ This project demonstrates DOM manipulation, event handling, and basic CSS stylin
 ---
 
 ## 🚀 Features
-- Clear (`C`) button to reset the display.
-- Delete (`←`) button to remove the last entered digit/operator.
-- Supports `+`, `-`, `*`, `/`, `%`.
-- Decimal point support.
-- Error handling for invalid expressions.
-- Responsive and clean UI.
+* Clear (`C`) button to reset the display.
+* Delete (`←`) button to remove the last entered digit/operator.
+* Supports `+`, `-`, `*`, `/`, `%`.
+* Decimal point support.
+* Responsive and clean UI.
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML** – Structure of the calculator.
-- **CSS** – Styling with Grid layout and hover effects.
-- **JavaScript** – Core logic for handling input & calculations.
-
----
-
-## 📂 Project Structure
-
+* **HTML** – Structure of the calculator.
+* **CSS** – Styling with Grid layout and hover effects.
+* **JavaScript** – Core logic for handling input & calculations.
 
 ---
 
