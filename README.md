@@ -33,4 +33,4 @@ This project demonstrates DOM manipulation, event handling, and basic CSS stylin
 ---
 
 ## 📸 Screenshot
-![Calculator Screenshot]("C:\Users\akhil\Downloads\calculator screenshot.png")
+![Calculator Screenshot](calculator_screenshot.png)
