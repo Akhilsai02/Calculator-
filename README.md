@@ -33,24 +33,4 @@ This project demonstrates DOM manipulation, event handling, and basic CSS stylin
 ---
 
 ## 📸 Screenshot
-![Calculator Screenshot](calculator_screenshot.png)
-
----
-
-## ▶️ Live Demo
-👉 **[Click Here to Try the Calculator](https://your-username.github.io/calculator-app/)**  
-
----
-
-## 📚 Learning Points
-- Using **JavaScript functions** for calculator operations.
-- Safely handling user inputs with `try/catch`.
-- Building responsive UIs with **CSS Grid**.
-- Managing projects with **Git & GitHub**.
-
----
-
-## 🙌 Future Improvements
-- Add keyboard support.
-- Add scientific calculator functions (sin, cos, log, power).
-- Add dark/light mode toggle.
+![Calculator Screenshot]("C:\Users\akhil\Downloads\calculator screenshot.png")
